@@ -1,9 +1,8 @@
 # CS2820 Spring 2023 WARP Project Code  ![License](https://img.shields.io/badge/UIOWA-CompSci-yellow)
-All of the things below are true.
 <br>
-Name: Kennedy Bombei
+Name: Ayman Noreldaim
 <br>
-HawkID: bombei
+HawkID: anoreldaim
 <br>
 For HW 0 we edited the run configurations with different commands and saw how that
 changed the output in the Output folder. That was cool. 
